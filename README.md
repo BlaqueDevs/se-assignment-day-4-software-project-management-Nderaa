@@ -69,10 +69,32 @@ It makes it easier to assign responsibilities to team members and develop realis
 It also serves as a baseline for monitoring progress and controlling changes to the project's scope.
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 
+A well-structured schedule serves as a communication tool that keeps all stakeholders informed about project status, milestones, and responsibilities
+A detailed schedule helps prioritize tasks based on their importance and dependencies, ensuring that critical tasks are completed on time.
+A well-developed schedule helps in identifying potential risks related to task dependencies, timelines, and resource constraints.
 
+Gantt charts are a popular project management tool used to visualize and manage project schedules. 
+Gantt charts present a clear visual timeline of the project, making it easy to understand the sequence of tasks and their durations at a glance
+They effectively show task dependencies, allowing project managers to identify which tasks must be completed before others can begin. 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+
+Incomprehension and inaccessibility of the Kenyan high school education system on the internet.
+Time wasted on the internet by students scouring for information and then consolidating this information.
+
+Incomprehension leads to failure in exams which may hinder someone from doing their desired course in university.
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+
+ A clear understanding of the problem helps in creating a solution that stands out in the market, offering something unique that competitors might not provide.
+ Defining the problem allows for a deeper understanding of its root causes, leading to more effective and innovative solutions rather than just addressing symptoms.
+ 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+
+The sciences in the Kenyan education system covers a wide array of topics that are often rushed without having room for ensuring that everyone has understood. The aim of the application is to handle these subjectts in a fun, interactive and simple manner.
+The software has consolidated all the subjects in one umbrella differentiated into the different forms, chapters and topics coupled with videos as teaching aids.
 ## 11. What are the main features or functionalities that make your software stand out?
+
+The teaching aids that are mostly cartoons, Multiple choice quesions that can be retaken with explanation, AI preinstalled in the app that addresses the questions one may have and a tab that allows one to take notes and highlight important bits in the notes provided.
 ## 12. What data is available regarding the market size and growth potential for your software?
+
+None.
 ## 13. How can understanding market trends inform your software’s positioning and development?
